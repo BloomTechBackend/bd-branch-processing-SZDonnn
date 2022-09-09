@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/branchProcessing.iml" filepath="$PROJECT_DIR$/.idea/modules/branchProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/branchProcessing.LibrariesAndUtilities.iml" filepath="$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/branchProcessing.LibrariesAndUtilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/branchProcessing.LibrariesAndUtilities.LessonPlanResources.iml" filepath="$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/branchProcessing.LibrariesAndUtilities.LessonPlanResources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/branchProcessing.LibrariesAndUtilities.LessonPlanResources.main.iml" filepath="$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/branchProcessing.LibrariesAndUtilities.LessonPlanResources.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/branchProcessing.LibrariesAndUtilities.LessonPlanResources.test.iml" filepath="$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/branchProcessing.LibrariesAndUtilities.LessonPlanResources.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/branchProcessing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/branchProcessing.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/branchProcessing.test.iml" filepath="$PROJECT_DIR$/.idea/modules/branchProcessing.test.iml" />
+    </modules>
+  </component>
+</project>
