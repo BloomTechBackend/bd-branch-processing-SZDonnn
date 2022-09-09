@@ -5,7 +5,7 @@ import processing.core.PApplet;
 public class Main extends PApplet {
 
     public void settings() {
-        size(600, 600);
+        size(500, 600);
     }
 
     public void setup() {
@@ -58,7 +58,23 @@ public class Main extends PApplet {
      * Draw a few ellipses, each with different colors at different parts of the screen.
      */
     public void drawEllipses() {
+        fill(50,50,100);
+        ellipse(40,40,30,30);
 
+        fill(50,50,100);
+        ellipse(width-40, 40,30,30);
+
+        fill(50,50,100);
+        ellipse(40, height/2,30,30);
+
+        fill(50,50,100);
+        ellipse(width-40, height/2,30,30);
+
+        fill(50,50,100);
+        ellipse(40, height-40,30,30);
+
+        fill(50,50,100);
+        ellipse(width-40, height-40,30,30);
     }
 
     public static void main(String[] args) {
