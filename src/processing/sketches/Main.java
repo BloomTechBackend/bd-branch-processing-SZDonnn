@@ -44,7 +44,11 @@ public class Main extends PApplet {
      * Draw a few rectangles, each with different colors at different parts of the screen.
      */
     public void drawRectangles() {
-        
+        fill(20f, 100, 100);
+        rect(0,0,width, height);
+
+        fill(200,100,100);
+        rect(20,20,width-40, height-40);
     }
 
     /**
