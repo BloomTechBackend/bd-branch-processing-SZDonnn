@@ -49,6 +49,9 @@ public class Main extends PApplet {
 
         fill(200,100,100);
         rect(20,20,width-40, height-40);
+
+        fill(100,50,50);
+        rect(40,40,width-80, height-80);
     }
 
     /**
